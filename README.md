@@ -1,6 +1,6 @@
 Portfolio Website
 
-View this project at https://austinloomis.github.io/personal/portfolio/
+View this project at https://austinloomis.github.io/Personal-Portfolio/
 
 About the Project
 This portfolio website is a single-page application built using HTML and CSS. It serves as a showcase of my work, including:
